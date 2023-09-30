@@ -1,0 +1,4 @@
+dlc_main.txt
+mod_main.txt
+test/dlc_main.txt
+test/mod_main.txt
