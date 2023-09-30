@@ -1,4 +1,4 @@
+3d/dlc_main.txt
+3d/mod_main.txt
 dlc_main.txt
 mod_main.txt
-test/dlc_main.txt
-test/mod_main.txt
